@@ -1,4 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
+trained_rnn.pt
+.git/
+generated_script_1.txt
 
 
